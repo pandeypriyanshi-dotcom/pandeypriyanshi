@@ -13,4 +13,5 @@ Currently exploring how to use <strong> Python, SQL, Excel, and visualization to
   <li>🚀 Goal-driven: every project I take on is a step toward mastering the craft of analysis and decision-making.</li>
   <li>📚 Believe in learning by doing – building projects that reflect curiosity, perseverance, and strategic thinking.</li>
 </ul>
-
+<h3>Support :</h3>
+<a href='https://ko-fi.com/J3J11KQO52' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
